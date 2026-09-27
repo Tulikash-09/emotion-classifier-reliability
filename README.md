@@ -4,17 +4,7 @@ A controlled, human-validated study of emotion-classifier reliability under temp
 
 ## Citation
 
-```bibtex
-@inproceedings{sharma2026emotion,
-  title     = {Emotion Classifier Reliability Across Time and Language},
-  author    = {Sharma, Tulika},
-  booktitle = {Proceedings of the EMORE Workshop at the International Conference
-               on Affective Computing and Intelligent Interaction Workshops (ACIIW)},
-  year      = {2026},
-  publisher = {IEEE},
-  note      = {Paper 158}
-}
-```
+
 
 ## Overview
 
